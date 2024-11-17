@@ -1,0 +1,18 @@
+# Output directory
+output/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.vscode/
+.idea/
+*.swp

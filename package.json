@@ -1,0 +1,15 @@
+{
+  "name": "receipts-management-system",
+  "version": "1.0.0",
+  "description": "A Receipts Management System that fetches, parses, and saves receipts from a financial portal.",
+  "main": "src/main.mjs",
+  "scripts": {
+    "start": "node src/main.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:JohnnyOak85/receipts-management-system.git"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
